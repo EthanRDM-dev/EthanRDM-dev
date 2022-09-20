@@ -61,7 +61,7 @@
         <img src="http://svgur.com/i/1j0.svg" alt="twig 3.0" width="40" height="40"/>
     </a>
     <a href="https://www.wampserver.com" target="_blank" rel="noreferrer">
-        <img src="[https://fr.wikipedia.org/wiki/WampServer#/media/Fichier:WampServer-logo.png](https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png)" alt="wampserver 3.2.6" width="40" height="40"/>
+        <img src="https://upload.wikimedia.org/wikipedia/commons/f/f8/WampServer-logo.png" alt="wampserver 3.2.6" width="40" height="40"/>
     </a>
     <a href="https://mailtrap.io" target="_blank" rel="noreferrer">
         <img src="https://scontent-cdg2-1.xx.fbcdn.net/v/t39.30808-6/292380569_713964839583846_1895425419794255828_n.png?_nc_cat=107&ccb=1-7&_nc_sid=09cbfe&_nc_ohc=40OFZxvS4pAAX_nHjzm&_nc_oc=AQm-IdEM_0YrL5K3SLs8INMPJCD0A5rmlM4yTR-yIDI222JVYeTx_KsOYhvebBvQTwI&_nc_ht=scontent-cdg2-1.xx&oh=00_AT8IwbstSjV3X0-6PbmZ8jbFH4jQrcfjGty2jt7XbS77OQ&oe=632F49A0" alt="mailtrap, un service de faux serveur SMTP pour tester l'envoi de mail" width="40" height="40"/>
