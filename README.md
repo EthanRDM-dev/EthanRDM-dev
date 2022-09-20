@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ethan</h1>
-<h3 align="center">A passionate versatile developper from Lille, France</h3>
+<h1 align="left">Hi 👋, I'm Ethan</h1>
+<h3 align="left">A passionate versatile developper from Lille, France</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
