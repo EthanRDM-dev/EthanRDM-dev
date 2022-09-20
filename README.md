@@ -12,3 +12,39 @@
 
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/ethanrdmdev"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ethanrdmdev" /></a></p><br><br>
+
+
+<h1 align="center">Exercice de la candidature de Ethan MARLOT pour la start-up Efficience IT</h1>
+<h3 align="center">Création d'un formulaire de contact avec le Framework Symfony</h3>
+
+<p align="left">
+    Pour l'exercice de mise en situation pour ma candidature dans votre start-up, il m'avait été demandé de créer une page de contact avec le framework Symfony, son moteur de gabarit Twig, le serveur local Wamp
+</p>
+
+<h3 align="left">Outils utilisés :</h3>
+<p align="left"> 
+    <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> 
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+    </a>
+    <a href="https://sass-lang.com" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/>
+    </a> 
+    <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/>
+    </a>
+    <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql 5.7.36" width="40" height="40"/>
+    </a>
+    <a href="https://www.php.net" target="_blank" rel="noreferrer">
+        <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php 8.1.0" width="40" height="40"/>
+    </a>
+    <a href="https://symfony.com" target="_blank" rel="noreferrer">
+        <img src="https://symfony.com/logos/symfony_black_03.svg" alt="symfony 6.1" width="40" height="40"/>
+    </a>
+    <a href="https://www.doctrine-project.org" target="_blank" rel="noreferrer">
+        <img src="https://github.com/devicons/devicon/blob/master/icons/doctrine/doctrine-original.svg" alt="doctrine 2.13" width="40" height="40"/>
+    </a>
+    <a href="https://twig.symfony.com" target="_blank" rel="noreferrer">
+        <img src="http://svgur.com/i/1j0.svg" alt="twig 3.0" width="40" height="40"/>
+    </a>
+</p>
