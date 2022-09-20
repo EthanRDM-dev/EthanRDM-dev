@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @EthanRDM-dev
+### Hi there 👋, I’m Ethan
 - 👀 I’m interested in development, videogames, mangas and tabletop RPGs
 - 🌱 I have a Bachelor's Degree in IT
 - 💞️ I’m looking to collaborate on anything lol
