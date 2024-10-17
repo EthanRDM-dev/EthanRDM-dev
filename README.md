@@ -62,10 +62,16 @@
 
 <h3 align="left">Currently learning:</h3>
 <p align="left">
+  <a href="https://www.ruby-lang.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/ruby/ruby-plain.svg" alt="ruby" width="40" height="40"/>
+  </a>
+  <a href="https://www.python.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/ca28c779441053191ff11710fe24a9e6c23690d6/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+  </a>
   <a href="https://www.rust-lang.org/" target="_blank" rel="noreferrer">
     <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="rust" width="40" height="40"/>
   </a>
-  <a href="https://angular.io" target="_blank" rel="noreferrer">
+  <a href="https://angular.io/" target="_blank" rel="noreferrer">
     <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/>
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
