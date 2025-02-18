@@ -3,9 +3,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-  <a href="https://twitter.com/_hallowedbythyn" target="blank">
-    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="_hallowedbythyn" height="30" width="40" />
-  </a>
   <a href="https://linkedin.com/in/ethan-marlot-dev" target="blank">
     <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ethan-marlot-dev" height="30" width="40" />
   </a>
@@ -76,13 +73,6 @@
   </a>
   <a href="https://vuejs.org/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/>
-  </a>
-</p>
-
-<h3 align="left">Support:</h3>
-<p>
-  <a href="https://ko-fi.com/ethanrdmdev">
-    <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="ethanrdmdev" />
   </a>
 </p>
 <br>
